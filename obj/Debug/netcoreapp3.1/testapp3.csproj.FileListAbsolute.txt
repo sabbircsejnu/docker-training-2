@@ -17,3 +17,4 @@ H:\Projects\Knowledge Base\DevSkill\Docker\Projects\Others\testapp3\testapp3\obj
 H:\Projects\Knowledge Base\DevSkill\Docker\Projects\Others\testapp3\testapp3\obj\Debug\netcoreapp3.1\testapp3.dll
 H:\Projects\Knowledge Base\DevSkill\Docker\Projects\Others\testapp3\testapp3\obj\Debug\netcoreapp3.1\testapp3.pdb
 H:\Projects\Knowledge Base\DevSkill\Docker\Projects\Others\testapp3\testapp3\obj\Debug\netcoreapp3.1\testapp3.genruntimeconfig.cache
+H:\Projects\Knowledge Base\DevSkill\Docker\Projects\Others\testapp3\testapp3\obj\Debug\netcoreapp3.1\testapp3.csprojAssemblyReference.cache
